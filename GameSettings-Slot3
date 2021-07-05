@@ -1,0 +1,198 @@
+<color=#704FA8FF>Mayor</color>
+0
+<color=#FF66CCFF>Lovers</color>
+20
+<color=#FFFF00FF>Sheriff</color>
+100
+<color=#FFA60AFF>Engineer</color>
+100
+<color=#66E666FF>Swapper</color>
+0
+<color=#00B3B3FF>Investigator</color>
+0
+<color=#0000FFFF>Time Lord</color>
+100
+<color=#006600FF>Medic</color>
+100
+<color=#FFCC80FF>Seer</color>
+20
+<color=#CCA3CCFF>Spy</color>
+100
+<color=#D4AF37FF>Snitch</color>
+50
+<color=#660000FF>Altruist</color>
+100
+<color=#FFBFCCFF>Jester</color>
+70
+<color=#999999FF>Shifter</color>
+25
+<color=#00FF00FF>The Glitch</color>
+40
+<color=#8C4005FF>Executioner</color>
+40
+<color=#FF4D00FF>Arsonist</color>
+10
+<color=#662962>Phantom</color>
+100
+<color=#FF0000FF>Janitor</color>
+70
+<color=#FF0000FF>Morphling</color>
+70
+<color=#FF0000FF>Camouflager</color>
+70
+<color=#FF0000FF>Miner</color>
+70
+<color=#FF0000FF>Swooper</color>
+70
+<color=#FF0000FF>Undertaker</color>
+70
+<color=#FF0000FF>Assassin</color>
+100
+<color=#FF0000FF>Underdog</color>
+70
+<color=#FFFF99FF>Torch</color>
+0
+<color=#808080FF>Diseased</color>
+10
+<color=#FF8080FF>Flash</color>
+15
+<color=#99E699FF>Tiebreaker</color>
+0
+<color=#758000FF>Drunk</color>
+0
+<color=#FF8080FF>Giant</color>
+0
+<color=#E600FFFF>Button Barry</color>
+10
+Camouflaged Comms
+False
+Camouflaged Meetings
+False
+Impostors can see the roles of their team
+True
+Dead can see everyone's roles
+True
+Max Impostor Roles
+3
+Max Neutral Roles
+5
+Role Appears Under Name
+True
+Probability of a completely vanilla game
+0
+Initial Mayor Vote Bank
+1
+Mayor Votes Show Anonymous
+True
+Both Lovers Die
+True
+Show Sheriff
+False
+Sheriff Miskill Kills Crewmate
+True
+Sheriff Kills Jester
+False
+Sheriff Kills The Glitch
+True
+Sheriff Kills Arsonist
+False
+Sheriff Kill Cooldown
+40
+Sheriff can report who they've killed
+False
+Engineer Fix Per
+0
+Footprint Size
+4
+Footprint Interval
+1
+Footprint Duration
+10
+Anonymous Footprint
+False
+Footprint Vent Visible
+False
+Revive During Rewind
+True
+Rewind Duration
+3.5
+Rewind Cooldown
+40
+Time Lord can use Vitals
+False
+Show Shielded Player
+2
+Show Medic Reports
+True
+Time Where Medic Reports Will Have Name
+5
+Time Where Medic Reports Will Have Color Type
+30
+Who gets murder attempt indicator
+1
+Shield breaks on murder attempt
+True
+Seer Cooldown
+65
+Info that Seer sees
+1
+Who Sees That They Are Revealed
+3
+Neutrals show up as Impostors
+True
+Snitch knows who they are on Game Start
+True
+Snitch sees neutral roles
+False
+Altruist Revive Duration
+1
+Target's body disappears on beginning of revive
+True
+Shifter Cooldown
+30
+Who gets the Shifter role on Shift
+0
+Mimic Cooldown
+30
+Mimic Duration
+10
+Hack Cooldown
+30
+Hack Duration
+10
+Glitch Kill Cooldown
+30
+Initial Glitch Kill Cooldown
+25
+Glitch Hack Distance
+2
+Executioner becomes on Target Dead
+1
+Douse Cooldown
+40
+Game keeps going so long as Arsonist is alive
+True
+Morphling Cooldown
+35
+Morphling Duration
+8
+Camouflager Cooldown
+35
+Camouflager Duration
+8
+Mine Cooldown
+10
+Swoop Cooldown
+35
+Swoop Duration
+8
+Drag Cooldown
+25
+Number of Assassin Kills
+5
+Assassin can Guess "Crewmate"
+True
+Assassin can Guess Neutral roles
+True
+Assassin can kill more than once per meeting
+True
