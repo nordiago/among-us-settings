@@ -95,7 +95,7 @@ False
 Sheriff Kills The Glitch
 True
 Sheriff Kills Arsonist
-False
+True
 Sheriff Kill Cooldown
 40
 Sheriff can report who they've killed
@@ -125,7 +125,7 @@ Show Shielded Player
 Show Medic Reports
 True
 Time Where Medic Reports Will Have Name
-5
+10
 Time Where Medic Reports Will Have Color Type
 30
 Who gets murder attempt indicator
