@@ -31,7 +31,7 @@
 <color=#8C4005FF>Executioner</color>
 40
 <color=#FF4D00FF>Arsonist</color>
-10
+20
 <color=#662962>Phantom</color>
 100
 <color=#FF0000FF>Janitor</color>
@@ -139,7 +139,7 @@ Info that Seer sees
 Who Sees That They Are Revealed
 3
 Neutrals show up as Impostors
-True
+False
 Snitch knows who they are on Game Start
 True
 Snitch sees neutral roles
