@@ -1,8 +1,10 @@
-# *Town Of Us* Settings
+# *Among Us* Settings
 
-Custom game settings and preset files for the **Among Us** mod [*Town Of Us*](https://github.com/polusgg/Town-Of-Us).
+Custom game settings and preset files for **Among Us** and some of its mods.
 
 ## General Game Settings
+
+The below options apply to unmodded and modded versions of *Among Us* and broadly establish a more competitive experience. Note that these all need to be adjusted manually as they are not part of any mod and can't be controlled by preset systems.
 
 Setting | Value | Comments
 --------|-------|---------
@@ -26,14 +28,23 @@ Short Tasks | 5 (maximum)
 
 ## Preset Files
 
-To use the preset files in this repository, download and place them in the following folder:
+To use the modded preset files in this repository, download and place them in the following folder:
 ```
 \Users\<User>\AppData\LocalLow\Innersloth\Among Us
 ```
-The above path can be reached directly by pasting it into an Explorer window with your corresponding `<User>` name.
+The above path can be reached by pressing `Win + R` and pasting the following into the popup:
+```
+%APPDATA%\..\LocalLow\Innersloth\Among Us
+```
+Pressing `Enter` or clicking "OK" will open the folder into which the preset files need to be placed.
 
-Alternatively, the `AppData` folder can be reached by searching for `%appdata%` from the taskbar. In the window that opens, navigate up one level to get out of `Roaming`. Then click into `LocalLow` and onward.
+### Town Of Us
 
-Once the preset files are placed, create an **Among Us** lobby, go to the "Game" tab of the `Customize` laptop, click "Load Custom Settings", and select the slot corresponding to the number in the filename (1-3).
+The preset files for the [*Town Of Us*](https://github.com/polusgg/Town-Of-Us) mod are named `GameSettings-Slot[1-3]`.
 
-Note that general game settings (see the table above) need to be adjusted manually as they are not part of the *Town Of Us* mod and can't be controlled by it.
+Once the files are placed, create an **Among Us** lobby, go to the "Game" tab of the `Customize` laptop, click "Load Custom Settings", and select the slot corresponding to the number in the filename (1-3).
+
+Recommended usage:
+- **5–7** players: `GameSettings-Slot1`
+- **8–12** players: `GameSettings-Slot2`
+- **12–15** players: `GameSettings-Slot3`
